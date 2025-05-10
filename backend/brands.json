@@ -1,0 +1,13 @@
+{
+    "shein": {
+      "impact": "very high",
+      "issues": ["labor", "waste", "overproduction"],
+      "alternatives": ["Grailed", "Depop"]
+    },
+    "temu": {
+      "impact": "high",
+      "issues": ["unknown sourcing", "low transparency"],
+      "alternatives": ["Parle Du Quartier"]
+    }
+  }
+  
